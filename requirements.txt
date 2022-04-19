@@ -7,3 +7,11 @@ pytesseract==0.3.6
 tesseract-ocr
 transformers==3.2.0
 googledrivedownloader
+pandas
+sys
+csv
+requests
+os
+sys
+time
+numpy
