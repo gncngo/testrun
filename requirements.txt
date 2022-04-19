@@ -8,7 +8,6 @@ tesseract-ocr
 transformers
 googledrivedownloader
 pandas
-csv
 requests
 os
 sys
