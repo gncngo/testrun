@@ -1,1 +1,16 @@
-fastai
+voila
+fastai>=2
+pillow
+packaging
+widgetsnbextension
+pytesseract
+tesseract-ocr
+transformers
+googledrivedownloader
+pandas
+csv
+requests
+os
+sys
+time
+numpy
