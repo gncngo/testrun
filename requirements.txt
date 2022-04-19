@@ -1,15 +1,1 @@
-voila
 fastai>=2
-pillow
-packaging
-widgetsnbextension
-pytesseract
-tesseract-ocr
-transformers
-googledrivedownloader
-pandas
-requests
-os
-sys
-time
-numpy
