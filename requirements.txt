@@ -2,10 +2,10 @@ voila
 fastai>=2
 pillow
 packaging
-ipwidgets
-pytesseract==0.3.6
+widgetsnbextension
+pytesseract
 tesseract-ocr
-transformers==3.2.0
+transformers
 googledrivedownloader
 pandas
 sys
